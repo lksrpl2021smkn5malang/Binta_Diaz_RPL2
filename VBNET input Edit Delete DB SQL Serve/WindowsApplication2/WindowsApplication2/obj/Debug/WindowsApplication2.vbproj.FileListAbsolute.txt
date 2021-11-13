@@ -1,0 +1,11 @@
+D:\Visual Studio 2015_PC\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+D:\Visual Studio 2015_PC\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+D:\Visual Studio 2015_PC\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+D:\Visual Studio 2015_PC\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\Visual Studio 2015_PC\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+D:\Visual Studio 2015_PC\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\Visual Studio 2015_PC\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\Visual Studio 2015_PC\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\Visual Studio 2015_PC\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+D:\Visual Studio 2015_PC\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+D:\Visual Studio 2015_PC\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb

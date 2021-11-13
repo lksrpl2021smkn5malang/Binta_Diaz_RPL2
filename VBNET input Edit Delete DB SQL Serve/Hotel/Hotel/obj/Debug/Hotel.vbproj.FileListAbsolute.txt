@@ -1,0 +1,12 @@
+D:\Visual Studio 2015_PC\Hotel\Hotel\bin\Debug\Hotel.exe.config
+D:\Visual Studio 2015_PC\Hotel\Hotel\obj\Debug\Hotel.vbprojResolveAssemblyReference.cache
+D:\Visual Studio 2015_PC\Hotel\Hotel\obj\Debug\Hotel.LoginForm.resources
+D:\Visual Studio 2015_PC\Hotel\Hotel\obj\Debug\Hotel.MainForm.resources
+D:\Visual Studio 2015_PC\Hotel\Hotel\obj\Debug\Hotel.Resources.resources
+D:\Visual Studio 2015_PC\Hotel\Hotel\obj\Debug\Hotel.vbproj.GenerateResource.Cache
+D:\Visual Studio 2015_PC\Hotel\Hotel\obj\Debug\Hotel.xml
+D:\Visual Studio 2015_PC\Hotel\Hotel\bin\Debug\Hotel.exe
+D:\Visual Studio 2015_PC\Hotel\Hotel\bin\Debug\Hotel.pdb
+D:\Visual Studio 2015_PC\Hotel\Hotel\bin\Debug\Hotel.xml
+D:\Visual Studio 2015_PC\Hotel\Hotel\obj\Debug\Hotel.exe
+D:\Visual Studio 2015_PC\Hotel\Hotel\obj\Debug\Hotel.pdb
